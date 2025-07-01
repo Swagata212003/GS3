@@ -3,11 +3,11 @@ GS3
 🚀 Getting Started
 1. Clone the repository
 
-git clone https://github.com/your-username/gs3-landing-page.git
-cd gs3-landing-page
+1)git clone https://github.com/your-username/gs3-landing-page.git
+2)cd gs3-landing-page
 2. Install dependencies
-npm install
-npm install framer-motion react-icons
+1)npm install
+2)npm install framer-motion react-icons
 3. Run the development server
 npm start
 

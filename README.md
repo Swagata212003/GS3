@@ -1,5 +1,16 @@
 GS3 
-A modern, responsive, and animated landing page built with React, Tailwind CSS, and Framer Motion. This project showcases a tech company's services, team, projects, and contact form with stunning UI and fluid animations.
+
+🚀 Getting Started
+1. Clone the repository
+
+git clone https://github.com/your-username/gs3-landing-page.git
+cd gs3-landing-page
+2. Install dependencies
+npm install
+npm install framer-motion react-icons
+3. Run the development server
+npm start
+
 
 
 ✨ Features
@@ -46,16 +57,7 @@ src/
 ├── App.js
 ├── index.js
 └── index.css
-🚀 Getting Started
-1. Clone the repository
 
-git clone https://github.com/your-username/gs3-landing-page.git
-cd gs3-landing-page
-2. Install dependencies
-npm install
-npm install framer-motion react-icons
-3. Run the development server
-npm start
 
 📦 Dependencies
 react
